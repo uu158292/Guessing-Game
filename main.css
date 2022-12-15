@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+    font-family:fantasy;
+    text-align: center;
+}
+
+h1 {
+    font-size: 70px;
+    margin-bottom: 1%;
+}
+
+p{
+    font-size: 25px;
+}
+
+input {
+    
+    margin: auto;
+    display: block;
+    border-radius: 15px 50px;
+    padding: 20px; 
+    width: 100px;
+    height: 15px; 
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+#box{
+    margin-bottom: 2%;
+}
+
+button {
+    background-color: aquamarine;
+    font-family: fantasy;
+    font-size: large;
+    margin-top: 2%;
+}
+
